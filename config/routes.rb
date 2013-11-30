@@ -1,4 +1,8 @@
 Discovergithubb::Application.routes.draw do
+  get "static/home"
+  get "static/help"
+  get "static/about"
+  get "static/contact"
   get "static_pages/home"
   get "static_pages/help"
   get "static_pages/about"
