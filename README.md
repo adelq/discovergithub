@@ -1,6 +1,8 @@
 Discover Github
 ===============
 
+[![Build Status](https://travis-ci.org/adelq/discovergithub.svg)](https://travis-ci.org/adelq/discovergithub)
+
 A new Github project discovery system
 
 Objectives
@@ -17,5 +19,5 @@ TODO
 
 Getting Started
 ---------------
-* Ruby version: 2.0.0
-* Rails version: 4.0.1
+* Ruby version: 2.1.5
+* Rails version: 4.1.8
